@@ -1,5 +1,5 @@
 Version: 1.0
-ProjectId: f275ecc4-f76a-4bc8-9a21-de2bf0d8b477
+ProjectId: 0ea12c41-ec5a-49f2-82cb-8c182b8a6564
 
 RestoreWorkspace: Default
 SaveWorkspace: Default
@@ -12,3 +12,5 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
+
+ProjectName: tidytuesday
