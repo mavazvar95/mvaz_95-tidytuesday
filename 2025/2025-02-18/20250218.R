@@ -1,8 +1,3 @@
-
-Miguel Ángel Vázquez Varela <miguel.a.vazquezvarela@gmail.com>
-  vie, 7 mar, 17:45 (hace 3 días)
-para mí
-
 # Cargar paquetes
 library(ggplot2)
 library(tidyverse)
